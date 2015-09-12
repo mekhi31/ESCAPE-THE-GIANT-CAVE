@@ -8,3 +8,7 @@ there was a explorer's that got lost in a cave and had to get out the cave and p
 bob,kevin,stewart
 
 up arrow=jump right arrow=move right left arrow =move lefts  spacebar=power up
+
+10 levels to complete
+
+### WHO WILL SURVIVE
