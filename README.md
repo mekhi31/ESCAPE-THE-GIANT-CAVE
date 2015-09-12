@@ -12,3 +12,5 @@ up arrow=jump right arrow=move right left arrow =move lefts  spacebar=power up
 10 levels to complete
 
 # WHO WILL SURVIVE
+
+#CREATED BY MEKHI JONES THE BEST CREATOR EVER ONLY 10 YEARS OLD
