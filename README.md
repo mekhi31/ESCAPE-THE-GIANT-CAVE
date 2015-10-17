@@ -3,7 +3,7 @@ GET PASS THE OBSTACLES BE FOR MIDNIGHT
 
 story, characters's,mechanics
 
-there was a explorer's that got lost in a cave and had to get out the cave and past obsticles befor midnight
+there were some explorer's that got lost in a cave and had to get out of the cave and past obstacles before midnight
 
 bob,kevin,stewart
 
@@ -14,3 +14,4 @@ up arrow=jump right arrow=move right left arrow =move lefts  spacebar=power up
 # WHO WILL SURVIVE
 
 #CREATED BY MEKHI JONES THE BEST CREATOR EVER ONLY 10 YEARS OLD.
+
